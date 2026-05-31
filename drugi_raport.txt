@@ -1,0 +1,24 @@
+=== RAPORT ANALIZY WIFI ===
+Data: 2026-05-31 21:43:30.404772
+
+=== PARAMETRY WIFI ===
+SSID: PLAY_Swiatlowod_FDF0
+Frequency: 2.412
+BitRate: Brak
+Signal: -15 dBm
+
+=== DOSTĘPNE SIECI ===
+- PLAY_Swiatlowod_FDF0
+
+=== TEST PING ===
+Średni ping: 10.683 ms
+
+=== TEST PRĘDKOŚCI ===
+Download: 64.17 Mb/s
+Upload: 104.24 Mb/s
+Ping: 13.75 ms
+
+=== ANALIZA KANAŁÓW WIFI ===
+Kanał 1: poziom zakłóceń = 100
+
+Rekomendowany kanał: 1
