@@ -21,7 +21,7 @@ Niektóre różnice same się tłumaczą jak Download, upload i Siła sygnalu. L
 
 Ping - Nie ma zbyt istotnej różnicy co mogłoby się wydawać dziwne lecz jest całkowicie normalne gdyż upload jak i download spada to ping zostaje ten sam, ponieważ nie gubi pakietów. Gdybym oddalił sie jeszcze dalej ping zacząłby drastycznie skakać do 200ms
 
-Zakłócenia - Przy routerze jest więcej zakłóceń niż w moim pokoju co też może niektórym sprawiać kłopoty dlaczego ale też jest proste wytłumaczenie, a powodem są inne urządzenia które są połączone z danym routerem, dzieje się tak dlatego iż nasz kod po prostu sumuje wysłane sygnały (NIE JEST TO STANDARDOWY PARAMETR IEEE) i im bliżej routera tym więcej odbiera szumu od innych urządzeń, jest to dość banalne podejście i daje mniej więcej wynik czego więcej odbiera.
+Zakłócenia - Przy routerze jest więcej zakłóceń niż w moim pokoju co też może niektórym sprawiać kłopoty dlaczego ale też jest proste wytłumaczenie, a powodem są inne urządzenia które są połączone z danym routerem (NIE JEST TO STANDARDOWY PARAMETR IEEE) i im bliżej routera tym więcej odbiera szumu od innych urządzeń, jest to tylko prosty wskaźnik zajętości kanału oparty na sumie sił wykrytych sieci Wi-Fi.
 
 BitRate - To w skrócie ilość danych przesyłana przez łącze w ciagu jednej sekundy, u mnie to max 300 więc mam Wi-Fi 4
 
